@@ -15,13 +15,10 @@ import requests # access HTTP requests
 
 
 # List of Solanart Collections (maybe turn into a menu)
-solanart_collections = ["sollamasgraves", "sollamas-gen2", "aurory", "degenape", "boldbadgers"]
+solanart_collections = ["projecteluune"]
 
 collection_name = "sollamas-gen2"  # change commentfor different collection
-#collection_name = "metabaes" #(Sollamas)
-# collection_name = "aurory" #(Aurory)
-# collection_name = "degenape" #(Degen Ape)
-# collection_name = "boldbadgers" #(Bold Badgers)
+#collection_name = "projecteluune" #(projecteluune)
 
 # store the attributes in a dictionary object
 attribute_database = {}
